@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SOIFDBNew" Class="IFDBDataDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SqlExpress;Initial Catalog=SOIFDBNew;Integrated Security=True;Encrypt=False" SettingsObjectName="Lithium_Rules.Properties.Settings" SettingsPropertyName="SOIFDBNewConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.LithiumRules" Member="LithiumRules">
+    <Type Name="LithiumRule">
+      <Column Name="LithiumGroup" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="LithiumType" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="LithiumPromoRule" Type="System.Char" DbType="NChar(1)" CanBeNull="true" />
+      <Column Name="LithiumRouteRule" Type="System.Char" DbType="NChar(1)" CanBeNull="true" />
+      <Column Name="LithiumRoute" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="LithiumOrderType" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LithiumShipAlone" Type="System.Char" DbType="NChar(1)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

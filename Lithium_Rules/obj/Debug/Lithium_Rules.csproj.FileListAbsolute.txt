@@ -1,0 +1,12 @@
+C:\Users\batef\source\repos\SnapOn\Lithium_Rules\Lithium_Rules\bin\Debug\Lithium_Rules.exe.config
+C:\Users\batef\source\repos\SnapOn\Lithium_Rules\Lithium_Rules\bin\Debug\Lithium_Rules.exe
+C:\Users\batef\source\repos\SnapOn\Lithium_Rules\Lithium_Rules\bin\Debug\Lithium_Rules.pdb
+C:\Users\batef\source\repos\SnapOn\Lithium_Rules\Lithium_Rules\obj\Debug\Lithium_Rules.csproj.AssemblyReference.cache
+C:\Users\batef\source\repos\SnapOn\Lithium_Rules\Lithium_Rules\obj\Debug\Lithium_Rules.Form1.resources
+C:\Users\batef\source\repos\SnapOn\Lithium_Rules\Lithium_Rules\obj\Debug\Lithium_Rules.Properties.Resources.resources
+C:\Users\batef\source\repos\SnapOn\Lithium_Rules\Lithium_Rules\obj\Debug\Lithium_Rules.csproj.GenerateResource.cache
+C:\Users\batef\source\repos\SnapOn\Lithium_Rules\Lithium_Rules\obj\Debug\Lithium_Rules.csproj.CoreCompileInputs.cache
+C:\Users\batef\source\repos\SnapOn\Lithium_Rules\Lithium_Rules\obj\Debug\Lithium_Rules.exe
+C:\Users\batef\source\repos\SnapOn\Lithium_Rules\Lithium_Rules\obj\Debug\Lithium_Rules.pdb
+C:\Users\batef\source\repos\SnapOn\Lithium_Rules\Lithium_Rules\obj\Debug\Lithium_Rules.dlgCheckPasswd.resources
+C:\Users\batef\source\repos\SnapOn\Lithium_Rules\Lithium_Rules\obj\Debug\Lithium_Rules.dlgAddRule.resources
